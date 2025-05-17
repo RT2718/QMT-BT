@@ -20,3 +20,5 @@ used to get the vector necessary for the other parts. used in both parts
 
 counts.m:
 Tell us the number of peaks over the threshold in part 2 of the experiment for each graph of an angle pair.
+
+S is calculated by hand in Excel and N, E are calculated by the former codes
